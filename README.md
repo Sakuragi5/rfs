@@ -82,7 +82,7 @@
         <div id="loader-subtext">Map &amp; Facility Management</div>
     </div>
     <iframe 
-        src="https://script.google.com/macros/s/AKfycbyh6heF-2bpoOQ7XyDdBA46bt0EZnHWGdYz1Qm3Y1Zivv49paH8sNI7mvXdnDSDYn5QZg/execc" 
+        src="https://script.google.com/macros/s/AKfycbyh6heF-2bpoOQ7XyDdBA46bt0EZnHWGdYz1Qm3Y1Zivv49paH8sNI7mvXdnDSDYn5QZg/exec" 
         id="appFrame"
         allow="geolocation; camera; microphone; fullscreen; clipboard-read; clipboard-write"
         allowfullscreen
