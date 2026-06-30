@@ -6,7 +6,7 @@
     <title>One Go RFS V2</title>
     <meta name="description" content="Map-based facility management system with pin tracking, zone filtering, and real-time site visibility across Qatar.">
     
-    <!-- Favicon: 📍 location pin emoji (loaded from emojiapi.dev as PNG) -->
+    <!-- Favicon: location pin emoji (loaded from emojiapi.dev as PNG) -->
     <link rel="icon" type="image/png" href="https://emojiapi.dev/api/v1/1F4CD/512.png">
     <link rel="apple-touch-icon" href="https://emojiapi.dev/api/v1/1F4CD/512.png">
     
